@@ -3,14 +3,13 @@
 - Cucumber (BDD)
 - Page Object Model
 - Node.js
----
-## ⚙️ Instalación
-```bash
+
+## Instalación
+
 git clone https://github.com/ren2430/ExamenQA
 cd automation-login-tests
 npm install
-```
----
+
 
 ## Ejecución
 
