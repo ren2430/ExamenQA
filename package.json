@@ -1,0 +1,15 @@
+{
+  "name": "automation-login-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "devDependencies": {
+  "@badeball/cypress-cucumber-preprocessor": "^17.3.0",
+  "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+  "cypress": "^13.17.0",
+  "esbuild": "^0.19.2"
+}
+
+}
